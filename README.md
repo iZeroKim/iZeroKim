@@ -1,5 +1,5 @@
 
-### Hi there 👋 Nice to meet you.
+### Hi there 👋 Welcome to my github.
 
 I am an Android Developer, based in Nairobi, Kenya.
 

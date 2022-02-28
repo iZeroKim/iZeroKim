@@ -1,5 +1,10 @@
-### Hi there 👋
 
+### Hi there 👋 Nice to meet you.
+
+I am an Android Developer, based in Nairobi, Kenya.
+
+### Reach me through:🌎
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-kimani-ke/)](https://www.linkedin.com/in/samuel-kimani-ke/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_diogorodrigues)](https://twitter.com/kim_gichuru)
 <!--
 **iZeroKim/iZerokim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
